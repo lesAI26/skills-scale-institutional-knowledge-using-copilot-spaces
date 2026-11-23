@@ -1,16 +1,22 @@
-# Scale institutional knowledge using Copilot Spaces
+# OctoAcme Project Management Docs
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+This repository centralizes OctoAcme's lightweight, cross-functional project management practices. The process is customer-first and iterative: teams validate a need, plan in small shippable increments, deliver with clear ownership, use evidence to guide decisions, and continuously improve through feedback and retrospectives.
 
-Hey lesAI26!
+## How OctoAcme runs projects
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+OctoAcme projects begin with initiation, where the team defines the problem, SMART objective, success metrics, stakeholders, initial timeline, risks, and resources in a project one-pager. A decision gate moves an approved initiative into planning, where the team holds a kickoff, prioritizes a backlog with acceptance criteria, estimates scope, documents the Definition of Done, identifies dependencies, and agrees on milestones and a release plan.
 
-Remember, it's self-paced so feel free to take a break! ☕️
+Delivery is managed through visible project-board workflows and short feedback cycles. The team uses daily standups, weekly delivery syncs, demonstrations, small pull requests, CI checks, reviews, testing, and regular updates to track progress and surface blockers or risks. Project Managers coordinate delivery, schedules, dependencies, and stakeholder communication; Product Managers define outcomes and prioritize work; developers build and test solutions; and QA validates quality and acceptance. Risks are maintained in a register, reviewed at weekly syncs, and escalated from team-level triage through project and sponsor leadership when needed.
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/lesAI26/skills-scale-institutional-knowledge-using-copilot-spaces/issues/1)
+Before release, teams confirm that acceptance criteria and pull requests are complete, CI and security scans pass, smoke tests are ready, release notes exist, and rollback or mitigation plans are documented. Deployments progress through staging and production with automated pipelines preferred, followed by verification and stakeholder announcements. After releases, milestones, sprints, or incidents, retrospectives capture what went well, identify improvements, and convert the highest-priority actions into owned, dated backlog items. This closes the learning loop and makes continuous improvement measurable.
 
----
+## Documentation
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
+- [Project Management Overview](docs/octoacme-project-management-overview.md)
+- [Project Initiation Guide](docs/octoacme-project-initiation.md)
+- [Project Planning](docs/octoacme-project-planning.md)
+- [Execution & Tracking](docs/octoacme-execution-and-tracking.md)
+- [Risk Management & Communication](docs/octoacme-risks-and-communication.md)
+- [Release & Deployment Guide](docs/octoacme-release-and-deployment.md)
+- [Retrospective & Continuous Improvement](docs/octoacme-retrospective-and-continuous-improvement.md)
+- [Roles & Personas](docs/octoacme-roles-and-personas.md)
