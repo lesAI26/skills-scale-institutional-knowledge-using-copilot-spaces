@@ -14,10 +14,13 @@ Applies to all cross-functional projects that deliver product features, services
 - Psychological safety: encourage feedback and learning.
 
 ## Core Roles
-- Project Manager (PM): coordinates delivery, schedules, risk, communications.
+- Project Manager (PM): coordinates delivery, schedules, risk, and communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
+- UX Designer: leads user research, usability, and accessibility work.
+- Release Manager: coordinates release readiness, deployment, and operational communications.
+- Data/Analytics Owner: defines and validates instrumentation and interprets outcomes.
 - Stakeholders: provide inputs and approvals.
 
 ## Key Artifacts
@@ -38,6 +41,7 @@ Applies to all cross-functional projects that deliver product features, services
 ## Communication Cadence
 - Weekly sync between PM + PdM
 - Twice-weekly standups for delivery team (or as agreed)
+- Release readiness reviews and stakeholder announcements as needed
 - Monthly stakeholder updates
 - Ad-hoc escalations as needed
 
